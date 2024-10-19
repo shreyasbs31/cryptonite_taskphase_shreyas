@@ -2,23 +2,23 @@
 
 ## Printout Variables
 i used the command echo $FLAG
-'''
+```
 pwn.college{ktBOV3naec842xyb5EUgVuokC_S.ddTN1QDLzkDO0czW}
-'''
+```
 ##
 
 ## Setting Variables
 i just did PWN=COLLEGE and got the flag?
-'''
+```
 pwn.college{ciGfMhId7e5ZliY7DjIvcq2fQCv.dlTN1QDLzkDO0czW}
-'''
+```
 ##
 
 ## Multi-word Variables
 PWN="COLLEGE YEAH" (basically how strings also work)
-'''
+```
 pwn.college{gOS0T55NAXhdb3JwPQL_u03HYPC.dBjN1QDLzkDO0czW}
-'''
+```
 ##
 
 ## Exporting Variables
