@@ -23,7 +23,7 @@ pwn.college{4_FYhp36_lVLSjTP7wYbeRYJ4bS.dZzNyUDLzkDO0czW}
 
 ## Hijacking Commands
 After a ton of headscratching and figuring out what to do and talking to many many people about it, i finally understood what needs to be done. I did echo cat /flag > rm, and then set PATH=~:$PATH, and then made the rm command executable by chmod a+x rm, and then finally ran /challenge/run.
-The reason i did this is because, i know the shell checks the PATH from left to right for the command to execute, so i had to ensure i created a duplicate rm(which i set to read the flag instead of delete) which ran before the actual rm hence i did 'PATH=~:$PATH', so that the duplicate rm will be invoked before the actual rm and the file will be read successfully on running /challenge/run.
+The reason i did this is because, i know the shell checks the PATH from left to right for the command to execute, so i had to ensure i created a duplicate rm(which i set to read the flag instead of delete) which ran before the actual rm hence i updated the PATH, so that the duplicate rm will be invoked before the actual rm and the file will be read successfully on running /challenge/run.
 ```
 pwn.college{Aiy-QMuRNHs8r7g307V9AO5DYd1.ddzNyUDLzkDO0czW}
 ```
