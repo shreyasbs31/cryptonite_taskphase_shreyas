@@ -44,7 +44,7 @@ Now you load w1 as the previous value obtained which is 77 and then free up the 
 Now to achieve the win condition, the expression should be compared to 0, so 77-value = 0, so the argument required to win is 77, which in hex is 0000004d.
 ###
 
-### What i learnt through this challene
+### What i learnt through this challenge
 how to read assembly code and understand the syntaxes and what stack pointers are.
 ###
 
