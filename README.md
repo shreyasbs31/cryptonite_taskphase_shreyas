@@ -10,7 +10,7 @@ Challenge Index
 | 6 | m00nwalk      |   haven't started |
 | 7     | SOAP  | haven't started |
 | 8     | Forbidden Paths      |   haven't started |
-| 9 | cookies      |    haven't started |
+| 9 | cookies      |    completed |
 | 10      | C3  | haven't started |
 | 11      | Custom encryption   |   haven't started |
 | 12 | miniRSA     |    haven't started |
