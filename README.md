@@ -15,6 +15,6 @@ Challenge Index
 | 11      | Custom encryption   |   haven't started |
 | 12 | miniRSA     |    haven't started |
 | 13    | buffer overflow 0 | haven't started |
-| 14     | format string 0      |   haven't started |
+| 14     | format string 0      |   completed |
 | 15 | flag leak     |    haven't started |
 
