@@ -9,7 +9,7 @@ Challenge Index
 | 5      | tunn3l v1s10n       |   haven't started |
 | 6 | m00nwalk      |   haven't started |
 | 7     | SOAP  | haven't started |
-| 8     | Forbidden Paths      |   haven't started |
+| 8     | Forbidden Paths      |   completed |
 | 9 | cookies      |    completed |
 | 10      | C3  | completed |
 | 11      | Custom encryption   |   haven't started |
