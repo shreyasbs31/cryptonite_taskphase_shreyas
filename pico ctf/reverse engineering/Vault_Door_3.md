@@ -15,7 +15,7 @@ Access denied!
 ```
 Then on further going through the code, and interpretting it piece by piece i understood more information. it was fairly easy to read and understand what was happening.
 
-```
+```java
 class VaultDoor3 {
     public static void main(String args[]) {
         VaultDoor3 vaultDoor = new VaultDoor3();
@@ -32,7 +32,7 @@ class VaultDoor3 {
 ```
 This part of the code was checking for the password inputted. on viewing further parts of the code, it was understood that the password was the flag itself, just jumbled up, and the whole point of the challenge was to unjumble the flag. 
 
-```
+```java
 public boolean checkPassword(String password) {
         if (password.length() != 32) {
             return false;
