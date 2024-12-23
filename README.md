@@ -12,8 +12,8 @@ Challenge Index
 | 8     | Forbidden Paths      |   completed |
 | 9 | cookies      |    completed |
 | 10      | C3  | completed |
-| 11      | Custom encryption   |   haven't started |
-| 12 | miniRSA     |    haven't started |
+| 11      | Custom encryption   |   ongoing |
+| 12 | miniRSA     |    ongoing |
 | 13    | buffer overflow 0 | completed |
 | 14     | format string 0      |   completed |
 | 15 | flag leak     |    completed |
